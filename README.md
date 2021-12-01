@@ -1,4 +1,4 @@
-# Second Dinner Gameplay Engineer Test
+# Gameplay Engineer Test
 
 Name: Jonathan Jennings
 
